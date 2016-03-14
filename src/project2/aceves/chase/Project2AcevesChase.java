@@ -45,7 +45,7 @@ public class Project2AcevesChase {
                 ;
             } 
                
-            //   
+            // Need to figure out *   
                 
             System.out.println("It took you " + totalGuesses +" tries.");
             System.out.println("Smaller guesses  = " + smallerGuesses +".");
